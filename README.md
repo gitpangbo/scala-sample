@@ -1,2 +1,1 @@
-# scalaProJect
-Start OK True
+scala-sample
