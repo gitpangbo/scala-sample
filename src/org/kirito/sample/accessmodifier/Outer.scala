@@ -16,6 +16,6 @@ class Outer {
 
   }
 
-  (new Inner).f() //错误
+  //(new Inner).f() //错误
 
 }

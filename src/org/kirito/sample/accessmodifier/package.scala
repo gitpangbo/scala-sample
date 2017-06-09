@@ -16,7 +16,7 @@ package p {
   }
 
   class Other {
-    (new Super).f() //错误
+    //(new Super).f() //错误
   }
 
 }
